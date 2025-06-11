@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Corporate-Banking-Loan-Origination-System
 # Alliances Fintech - Loan Management System (CBLOS)
 
@@ -79,3 +80,6 @@ Open your terminal or command prompt and navigate to the directory where you wan
 ```bash
 git clone https://github.com/pinak2161/Corporate-Banking-Loan-Origination-System
 
+=======
+# Corporate-Banking-Loan-Origination-System
+>>>>>>> a2da82939fe71514549b2d214c6acf031a5027c7
